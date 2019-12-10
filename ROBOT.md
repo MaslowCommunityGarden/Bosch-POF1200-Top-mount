@@ -1,6 +1,6 @@
 {
 "ModerationLevel": "communityManaged",
 "Facilitator": "Dag83",
-"Price": "SOLD OUT",
+"Price": "15 EUR",
 "Category": "market"
 }
